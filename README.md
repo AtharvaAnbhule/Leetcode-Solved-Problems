@@ -58,3 +58,8 @@ javac Filename.java && java Filename
 
 # For Python
 python filename.py
+
+Contributing
+Contributions are welcome! If you have suggestions for improvements or new solutions, feel free to open an issue or submit a pull request.
+
+
